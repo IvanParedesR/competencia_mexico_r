@@ -1,6 +1,6 @@
-# competencia_mexico
+# competencia_mexico_r
 
-**Paquete para el análisis de competencia económica, estructuras de mercado, estrategias de precios y recuperación aumentada con RAG**
+**Paquete para el análisis de competencia económica, estructuras de mercado, estrategias de precios y recuperación aumentada con RAG_**
 
 Este paquete contiene funciones interactivas y automatizadas para facilitar el análisis de datos en economía de la competencia, incluyendo el cálculo de índices clave como el IHH (Índice Herfindahl-Hirschman), el índice de dominancia, simulaciones de colusión en precios, y herramientas para visualizar datos de estadisticas de la autoridad de competencia.
 
@@ -24,5 +24,6 @@ Se anexa un instructivo para facilitar su uso.
 
 ```bash
 pip install competencia-mexico .
+
 
 

@@ -14,8 +14,6 @@ Se anexa un instructivo para facilitar su uso.
 
 ### Requisitos previos
 
-- Python 3.7 o superior
-- pip
 
 ### Instalación local (modo editable)
 
@@ -24,6 +22,7 @@ Se anexa un instructivo para facilitar su uso.
 
 ```bash
 pip install competencia-mexico .
+
 
 
 
